@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Rabbit Ink</string>
+    <string name="imgSplash">Splash Image</string>
+    <string name="title_activity_main">Rabbit Ink</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+    <!-- //Main Activity-->
+    <string name="btnEmbroidery">Embroidery</string>
+    <string name="btnBanner">Banners</string>
+    <string name="btnShirts">Shirts</string>
+    <string name="btnContact">Contact</string>
+    <string name="address">Image of Address</string>
+
+    <!-- //Embroidery Main Activity-->
+    <string name="txtEmbroideryDef">Embroidery is the craft of decorating fabric or other materials using a needle to apply thread or yarn. Embroidery may also incorporate other materials such as pearls, beads, quills, and sequins. In modern days, embroidery is usually seen on caps, hats, coats, blankets, dress shirts, denim, dresses, stockings, and golf shirts. Embroidery is available with a wide variety of thread or yarn color.</string>
+    <string name="btnEtsy">Go to Etsy!</string>
+    <string name="btnRegularEmbroidery">Regular Designs</string>
+    <string name="btnCustomDesign">Custom Design</string>
+    <string name="btnWatch">Watch it!</string>
+    <string name="txtEmbroidery">What is embroidery?</string>
+    <string name="imgLarge">Embroidery Images</string>
+
+    <!-- //Banner Main Activity-->
+
+    <string name="txtBannerDef">We carry a wide selection of adhesive banners including custom decals, window sign stickers, floor decals and much more. Our high quality adhesive printing services guarantee a beautiful, vibrant sign for your business or event.</string>
+    <string name="txtBanner">Do you need banner, vinyl or decals ?</string>
+    <string name="title_activity_banner">Rabbit Ink - Banner / Vinyl / Sticker</string>
+    <string name="imgLargeBanner">Banner - Vinyl - Sticker  Images</string>
+
+
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_main__contact">Main_Contact</string>
+    <string name="title_activity_contact_form">Rabbit Ink Contact Form</string>
+    <string name="title_activity_main_embroidery">Rabbit Ink - Embroidery</string>
+    <string name="title_activity_custom_design">Rabbit Ink - Custom Designs</string>
+
+    <!--Contact Form-->
+
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department…</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+
+    <!-- //Embroidery regular design Activity-->
+    <string name="textview">Here, you can see some of our completed works!</string>
+
+    <!-- //Main_tshirtcap regular design Activity-->
+    <string name="imgDescription">Shirts &amp; Caps</string>
+    <string name="btnStart">Let us see!</string>
+    <string name="btnStop">Stop</string>
+    <string name="text1">We do graphics in-house for your convenience! We take your idea and create a design thats perfect for you, or you may already have an exsisting design but need changes made, we can help you with that. We create Logos, Layouts, and Illustrations from your ideas. Call us! We are ready to assist you.</string>
+
+    <string name="sendLogo">Send your logo!</string>
+    <string name="hint">Please specify the dimensions.After your mail, in 24 hours will be contacted with you to meet the details.Thank you for choosing us! </string>
+</resources>
